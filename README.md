@@ -4,5 +4,6 @@
 - feh
 - lxpolkit
 - pasystray
+- rofi
 - thunar
 - xfce4-screenshooter
