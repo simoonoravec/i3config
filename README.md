@@ -9,3 +9,4 @@
 - rofi
 - thunar
 - xfce4-screenshooter
+- xclip
