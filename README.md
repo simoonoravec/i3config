@@ -1,4 +1,6 @@
-### Required apps:
+### My configuration files for the i3 window manager ( https://i3wm.org/ )
+
+### Required extra packages:
 - nm-applet
 - terminator
 - feh
